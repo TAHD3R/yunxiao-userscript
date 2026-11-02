@@ -1,16 +1,14 @@
 # 云效增强：暗黑模式 + 自动续登
 
 [![License: MIT](https://img.shields.io/github/license/TAHD3R/yunxiao-userscript)](LICENSE)
-<!-- GreasyFork 徽章，发布后取消注释并填入脚本 ID：
-![GreasyFork](https://img.shields.io/greasyfork/v/<SCRIPT_ID>)
-![GreasyFork installs](https://img.shields.io/greasyfork/dt/<SCRIPT_ID>)
--->
+[![GreasyFork](https://img.shields.io/greasyfork/v/603401)](https://greasyfork.org/zh-CN/scripts/603401)
+[![GreasyFork installs](https://img.shields.io/greasyfork/dt/603401)](https://greasyfork.org/zh-CN/scripts/603401)
 
 为阿里云·云效（Yunxiao）提供**暗黑模式**与**登录会话自动续期**的用户脚本，覆盖项目协作（devops）、代码管理（Codeup）、流水线（Flow）三个站点。
 
 ## 安装
 
-- **GreasyFork（推荐）**：<!-- 发布后填入脚本页链接 -->（待发布）
+- **GreasyFork（推荐）**：[https://greasyfork.org/zh-CN/scripts/603401](https://greasyfork.org/zh-CN/scripts/603401)
 - **GitHub 直装**：Tampermonkey 中打开 [main 分支源码](https://github.com/TAHD3R/yunxiao-userscript/raw/main/yunxiao-enhance.user.js) 即触发安装；后续更新需手动或改用 GreasyFork 渠道
 
 ## 功能
